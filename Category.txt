@@ -1,0 +1,8 @@
+Grocery
+Personal
+Bill
+Transportation
+Restaurant
+Education
+Food
+Misc

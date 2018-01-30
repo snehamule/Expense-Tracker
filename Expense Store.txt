@@ -1,0 +1,50 @@
+02/02/2017, Grocery, 20.0,Pen, Walmart, Cash
+02/02/2017, Personal, 50.0,Pencil, Walmart,Credit Card
+02/2/2017,Bill, 23.0,A, Walmart,Cash
+03/20/2017, Transportation, 59.0,Pencil, Walmart, Credit Card
+03/29/2017, Grocery, 2.0,Pa,Walmart,Cash
+03/22/2017, Bill, 52.0,P, Walmart, Credit Card
+03/23/2017, Personal, 23.0,Pen, Walmart, Cash
+03/21/2017, Grocery,53.0,Pencil, Walmart, Credit Card
+03/21/2017, Food, 29.0,Pen,Walmart,Cash
+03/23/2017, Transportation,80.0,Pencil,Walmart,Credit Card
+03/25/2017, Personal,28.0,Pen,Walmart,Cash
+04/26/2017, Grocery,53.0,Pencil,Walmart,Credit Card
+04/27/2017, Bill,28.0,Pen,Walmart, Cash
+04/27/2017, Grocery,59.0,Pencil,Walmart,Credit Card
+06/28/2017, Transportation,27.0,Pen,Walmart,Cash
+04/21/2017, Education,58.0,Pencil,Walmart,Credit Card
+04/20/2017, Bill,28.0,Pen,Walmart,Cash
+06/23/2017, Personal,53.0,Pencil,Walmart,Credit Card
+04/21/2017, Grocery,27.0,Pen,Walmart,Cash
+03/21/2017, Transportation,23.0,Pen,Walmart,Cash
+05/24/2017, Bill,52.0,Pencil,Walmart,Credit Card
+08/22/2017, Misc,23.0,Pen,Walmart,Cash
+05/24/2017, Transportation,54.0,Pencil,Walmart,Credit Card
+05/22/2017, Grocery, 55.0,Pencil, Walmart,Credit Card
+07/21/2017, Bill,29.0,Pen, Walmart, Cash
+05/27/2017, Personal, 57.0,Pencil, Walmart,Credit Card
+05/29/2017, Grocery,22.0,Pen, Walmart, Cash
+07/29/2017, Personal,51.0,Pencil,Walmart,Credit Card
+05/29/2017, Bill,65.0,Light,Cosco,Cash
+05/29/2017, Bill, 60.0,Light B ill, Electricity, Debit Card
+06/29/2017, Transportation, 10.0, Bus, Bus, Cash
+05/29/2017, Restaurant, 100.0, Chicken, Restaurant, Credit Card
+04/27/2017, Grocery,59.0,Pencil,Walmart,Credit Card
+06/28/2017, Transportation,27.0,Pen,Walmart,Cash
+04/21/2017, Education,58.0,Pencil,Walmart,Credit Card
+04/20/2017, Bill,28.0,Pen,Walmart,Cash
+06/23/2017, Personal,53.0,Pencil,Walmart,Credit Card
+04/21/2017, Grocery,27.0,Pen,Walmart,Cash
+03/21/2017, Transportation,23.0,Pen,Walmart,Cash
+05/24/2017, Bill,52.0,Pencil,Walmart,Credit Card
+08/22/2017, Misc,23.0,Pen,Walmart,Cash
+05/24/2017, Transportation,54.0,Pencil,Walmart,Credit Card
+05/22/2017, Grocery, 55.0,Pencil, Walmart,Credit Card
+07/21/2017, Bill,29.0,Pen, Walmart, Cash
+05/27/2017, Personal, 57.0,Pencil, Walmart,Credit Card
+05/29/2017, Grocery,22.0,Pen, Walmart, Cash
+07/29/2017, Personal,51.0,Pencil,Walmart,Credit Card
+05/29/2017, Bill,65.0,Light,Cosco,Cash
+05/29/2017, Bill, 60.0,Light B ill, Electricity, Debit Card
+06/29/2017, Transportation, 10.0, Bus, Bus, Cash
