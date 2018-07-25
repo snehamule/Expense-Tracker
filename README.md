@@ -18,10 +18,10 @@ Java version: 1.8 or greater<br />
 ```	
 4. To run java program 
 ```
-	java Source_Code/views/HomePageUI.java
+	java FrontPage.java
 ```
 5. To generate bill run commond
 ```
-	java Source_Code/views/BillGeneratorTableUI.java
+	java FrontPage.java
 ```
 
