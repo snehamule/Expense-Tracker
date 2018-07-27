@@ -1,6 +1,6 @@
 # Expense Tracker
 
-This is a desktop based application to track expense.<br /> It allow user to add categories and expense in that catogiry. <br />User can track expense, download yealy or montly expense report.<br /> This application allow user to see graphical view - piechart and tables for all categories.
+* This is a desktop based application to track expense.<br /> * It allow user to add categories and expense in that catogiry. <br />* User can track expense, download yealy or montly expense report.<br /> * This application allow user to see graphical view - piechart and tables for all categories.
 <br />
 
 ## Technology used: <br />
