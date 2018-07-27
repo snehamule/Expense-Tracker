@@ -25,8 +25,7 @@ If JDK is not installed then need to install JDK:<br />
 java -version
 
 ## Steps How Program work
-
-## Run program : <br />
+# Run program : <br />
 1. Download code from git  using  git clone .
 2. For  compile java program 
 ```
